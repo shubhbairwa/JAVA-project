@@ -6,7 +6,7 @@ public class FRIENDS {
 	public static void main(String[] args) {
 int a,b;
 boolean x;
-sc = new Scanner(System.in);
+Scanner sc = new Scanner(System.in);
 System.out.println("Welcome to the Quiz of F.R.I.E.N.D.S");
 System.out.println("");
 sc.nextLine();
